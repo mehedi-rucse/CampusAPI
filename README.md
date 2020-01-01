@@ -40,7 +40,7 @@ This action will show this list of the users that the database contains.
 
 ### Entering data of new User [POST]
 
-You may create your own product using this action. It takes a JSON
+You may enter new user using this action. It takes a JSON
 object containing the followings:
     1. Name
     2. Roll
